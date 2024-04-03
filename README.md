@@ -10,6 +10,6 @@
 
 # Hello
 # This
-<!-- # is -->
+# is
 <!-- # SCM - Project -->
 <!-- # Repositiory -->
