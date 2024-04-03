@@ -11,5 +11,5 @@
 # Hello
 # This
 # is
-<!-- # SCM - Project -->
+# SCM - Project
 <!-- # Repositiory -->
