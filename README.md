@@ -9,7 +9,14 @@
 # Dev - 1 is Gagandeep Singh
 
 # Hello
+<<<<<<< HEAD
 # This
 # is
 # SCM - Project
 # Repositiory
+=======
+<!-- # This -->
+<!-- # is -->
+<!-- # SCM - Project -->
+<!-- # Repositiory -->
+>>>>>>> parent of a0fbaed (updated content of README.md 02)
